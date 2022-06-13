@@ -1,0 +1,5 @@
+    "start": "DEBUG=back-finale:* nodemon node ./bin/www" i replaced from package json back
+https://cloud.mongodb.com/v2/613867229a6b2265d0a9ce5f#metrics/replicaSet/622a4d8d32a113648d335035/explorer/servicesdb/users/find
+link to go to db
+email:hilal1922001@gmail.com
+pass:06205753Hm
